@@ -1,4 +1,7 @@
-## Welcome to my github 👋
+## Welcome to my github where AI meets Bio x Bio 
+
+![Banner](transition.png)
+
 
 - 🔭 I’m currently working on Virtual Cell Challenge, Enzyme Engineeting Challenge, Protein Designing Project and Integrated Analysis Environment for Wet-Lab Scientists.
 - 🌱 I’m currently learning Graph Neural Networks, Physics Based Neural Networks, Models that combine biophysical and biochemical properties of a protein, Model Context Protocol, Front End engineering to create a user interface
