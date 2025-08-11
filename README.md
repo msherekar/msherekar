@@ -1,6 +1,6 @@
 ## Welcome to my github where AI meets Bio x Bio 
 
-![Banner](transition.png)
+![Banner](transition.jpeg)
 
 
 - 🔭 I’m currently working on Virtual Cell Challenge, Enzyme Engineeting Challenge, Protein Designing Project and Integrated Analysis Environment for Wet-Lab Scientists.
